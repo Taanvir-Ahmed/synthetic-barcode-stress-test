@@ -1,0 +1,8 @@
+python-barcode
+pillow
+opencv-python
+pyzbar
+numpy
+pandas
+matplotlib
+pytest
